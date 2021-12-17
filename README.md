@@ -1,5 +1,5 @@
-### Hi!
-**17**<br>
+### Welcome :)
+**17 from Norway**<br>
 
 <hr>
 <div>
