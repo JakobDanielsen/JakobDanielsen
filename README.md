@@ -13,7 +13,7 @@
 </details>
 
 <div width="100%" height="1px" style="background: linear-gradient(to right, transparent, lightgrey, transparent); margin: 10px;"></div>
-<p style="font-size: 20px;  font-weight: 500;">"Languages" that i know</p>
+<p style="font-size: 20px;  font-weight: 500;">Digital vocabulary:</p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=davaScript)
 ![C#](https://img.shields.io/badge/-NodeJS-000?&logo=NodeJS)
