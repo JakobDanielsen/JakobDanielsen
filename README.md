@@ -1,5 +1,5 @@
-### Hello :)
-**20 from Norway**<br>
+### Welcome to my profile
+**21🇳🇴**<br>
 
 <hr>
 <div>
