@@ -7,7 +7,7 @@
 </details>
 
 <div width="100%" height="1px" style="background: linear-gradient(to right, transparent, lightgrey, transparent); margin: 10px;"></div>
-<p style="font-size: 20px;  font-weight: 500;">Digital vocabulary:</p>
+<p style="font-size: 20px;  font-weight: 500;">Experience:</p>
 
 <ul>
   <li>Javascript</li>
