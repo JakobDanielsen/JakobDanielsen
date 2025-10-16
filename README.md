@@ -19,11 +19,6 @@
   <li>Bootstrap</li>
   <li>Java</li>
 </ul>
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=davaScript)
-![C#](https://img.shields.io/badge/-NodeJS-000?&logo=NodeJS)
-![C#](https://img.shields.io/badge/-Html-000?&logo=dLua)
-![C#](https://img.shields.io/badge/-Css-000?&logo=dLua)
-![C#](https://img.shields.io/badge/Discord.js-black)
 
 <br>
 <p style="font-size: 20px;  font-weight: 500;">Github page views</p>
