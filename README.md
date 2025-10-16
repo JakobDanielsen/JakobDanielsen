@@ -1,4 +1,4 @@
-**21🇳🇴**<br>
+**21 🇳🇴**<br>
 
 <hr>
 <div>
@@ -14,9 +14,11 @@
   <li>Node.js</li>
   <li>Express.js</li>
   <li>Discord.js</li>
+  <br>
   <li>Html</li>
   <li>Css</li>
   <li>Bootstrap</li>
+  <br>
   <li>Java</li>
 </ul>
 
