@@ -20,6 +20,10 @@
   <li>Bootstrap</li>
   <br>
   <li>Java</li>
+  <br>
+  <li>Python</li>
+  <br>
+  <li>PICO-8</li>
 </ul>
 
 <br>
