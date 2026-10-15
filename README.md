@@ -27,8 +27,5 @@
 </ul>
 
 <br>
-<p style="font-size: 20px;  font-weight: 500;">Github page views</p>
-
-![](https://komarev.com/ghpvc/?username=jakobdanielsen&style=flat-square)
 
 </div>
